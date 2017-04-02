@@ -11,9 +11,7 @@
 
 
 /* 
-*
 *	Function Prototypes
-*
 */
 
 // Takes text from a file and uses it as the message being encrypted 
@@ -44,9 +42,7 @@ void setRotors(void);
 
 
 /*
-*
 *	Complete functions
-*
 */
 void menuOne() {
 	char option[2];
