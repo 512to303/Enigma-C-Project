@@ -94,6 +94,7 @@ VI) Options
   
   -p -> modify plugboard settings
   
+  Enter numbers as text. For example "ONE, TWO, THREE, FOUR" 
   
   ** Each modify option prints a short example of what is accepted as correct 
     input/formatting ** 
