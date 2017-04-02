@@ -95,10 +95,12 @@ void menuTwo() {
 
 void encrypt() {
 	printf("Encrypt was choses\n");
+	setRotors();
 }
 
 void decrypt() {
 	printf("Decrypt was chosen\n");
+	setRotors();
 }
 
 void help() {
